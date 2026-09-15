@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "path": "raik-183h-homework-2-danielbeauchamp" },
+    { "path": "raik-183h-labs-lab-strings-1-laurenrallis12" },
+    { "path": "raik-183h-labs-lab-strings-2-danielbeauchamp" },
+    { "path": "raik-183h-labs-lab-variables-manipulations-1-danielbeauchamp" },
+    { "path": "raik-183h-labs-lab-variables-manipulations-2-danielbeauchamp" }
+  ],
+  "settings": {
+    "specstory.cloudSync.enabled": "never"
+  }
+}
